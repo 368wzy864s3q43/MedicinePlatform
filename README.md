@@ -24,7 +24,7 @@
 
 ### Nodejs 22.x
 
-下载：https://nodejs.org/zh-cn/download 中的 v22.23.3，msi、zip自己按情况选
+下载：https://nodejs.org/zh-cn/download 中的 v22.23.4，msi、zip自己按情况选
 
 > 镜像配置：
 >
